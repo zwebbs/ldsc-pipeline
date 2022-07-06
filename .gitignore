@@ -4,4 +4,4 @@ env/*/lib
 env/*/lib64
 env/*/pip-selfcheck.json
 env/*/man
-
+data/*
